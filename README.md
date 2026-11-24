@@ -41,10 +41,6 @@ There is no labelled video in this repo, so no accuracy number is claimed. Inste
 
 A sound next step is to track each person across frames and use keypoint speed (body movement per second) with the angles, evaluated on a labelled dataset.
 
-## Changes from the earlier repo
-
-This repo replaces `YOLO-MovementType-Detection`. The logic moved out of a 190-line video script into testable functions; behaviour is unchanged.
-
 ## Run it
 
 The rule and tests need only numpy:
