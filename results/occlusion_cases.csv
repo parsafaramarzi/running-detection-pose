@@ -1,0 +1,6 @@
+case,label
+"bent arm and leg, all visible",running
+"same, left wrist hidden",non-running
+"same, left ankle hidden",unknown
+"same, both ankles hidden",unknown
+"same, both knees hidden",unknown

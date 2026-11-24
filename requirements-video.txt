@@ -1,0 +1,5 @@
+-r requirements.txt
+ultralytics
+opencv-python
+imageio
+imageio-ffmpeg
